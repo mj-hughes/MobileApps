@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:WhichTurtleAreYou;assembly=WhichTurtleAreYou"
+             mc:Ignorable="d"
+             x:Class="WhichTurtleAreYou.MainPage"
+             Title="Turtle Power!">
+   
+    <Grid>
+        <Grid.BindingContext>
+            <local:QuizDataViewModel/>
+        </Grid.BindingContext>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label Text="Which Turtle are You?"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"
+               Grid.Row="0" Grid.ColumnSpan="2"
+               TextColor="AntiqueWhite"
+               FontSize="Title"
+               BackgroundColor="SeaGreen"/>
+        <Label Text="{Binding NewQuestion}"
+               Grid.Row="1" Grid.ColumnSpan="2" Margin="10">
+        </Label>
+       
+        <Image Source="{Binding TurtleImage}" Grid.Row="2" Grid.ColumnSpan="2">
+            <Image.GestureRecognizers>
+                <SwipeGestureRecognizer Direction="Left" Command="{Binding TFResponse}" CommandParameter="False" />
+                <SwipeGestureRecognizer Direction="Right" Command="{Binding TFResponse}" CommandParameter="True" />
+            </Image.GestureRecognizers>
+        </Image>
+        <Label Text="Swipe turtle Left for NO and Right for YES"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"
+               Grid.Row="3" Grid.ColumnSpan="2"
+               />
+    </Grid>
+</ContentPage>
