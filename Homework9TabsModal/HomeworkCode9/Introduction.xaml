@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HomeworkCode9.Introduction"
+             IconImageSource="glassesgal2.png"
+             Title="Introduction">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Image Source="glassesgalrbg.png"
+                   Aspect="Fill"
+                   VerticalOptions="Start"
+                   HorizontalOptions="Center"
+                   HeightRequest="120"
+                   Margin="50"/>
+            <Label Text="This is the introduction to me!"
+                   HorizontalOptions="Center" VerticalOptions="Center" FontSize="Title" />      
+            <Label Text="I'm Mary, having great fun and learning lots as a 4th semester student of IT: Web and Software Developer at WCTC." 
+                   HorizontalOptions="Center" Margin="10"/>      
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"           
+             x:Class="HomeworkCode9.Drive"
+             IconImageSource="driver.png"
+             Title="Driver Information">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="How Long Have You Been Driving?"
+                   HorizontalOptions="Center" VerticalOptions="Start"
+                   Margin="50" FontSize="Title"/>
+            <Label Text="Enter your age to see how long you could have been legally driving: "
+                   Margin="10"/>
+            <Entry Placeholder="16" x:Name="age"
+                   Keyboard="Numeric" Margin="10"/>
+            <Label Text="" x:Name="output"
+                   FontSize="Subtitle" Margin="10"/>
+            <Button Text="Calculate!" Clicked="Calc_Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

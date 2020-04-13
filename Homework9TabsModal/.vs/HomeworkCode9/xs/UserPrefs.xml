@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BB20A08E-A107-47BF-BB7A-AFC7FC2558AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomeworkCode9.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3BF2C518-5305-4D3C-A123-710EF3CDD70C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworkCode9/Credits.xaml">
+    <Files>
+      <File FileName="HomeworkCode9/MainPage.xaml" Line="6" Column="1" />
+      <File FileName="HomeworkCode9/Drive.xaml" />
+      <File FileName="HomeworkCode9/Drive.xaml.cs" />
+      <File FileName="HomeworkCode9/Credits.xaml" Line="13" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeworkCode9" expanded="True">
+            <Node name="HomeworkCode9" expanded="True">
+              <Node name="Credits.xaml" expanded="True" selected="True" />
+              <Node name="Drive.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HomeworkCode9.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

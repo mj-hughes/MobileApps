@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HomeworkCode9.Credits"
+             IconImageSource="credits.png"
+             Title="Credits">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Credits"
+                   HorizontalOptions="CenterAndExpand" VerticalOptions="Start"
+                   FontSize="Title" Margin="50"/>
+            <Label Text="Idea by: Matt Green" Margin="10,0,0,0" />
+            <Label Text="Design by: Mary Hughes" Margin="10,0,0,0" />
+            <Label Text="Implementation by: Mary Hughes" Margin="10,0,0,0" />
+            <Button Text="Terms of Use" Clicked="SeeTerms" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

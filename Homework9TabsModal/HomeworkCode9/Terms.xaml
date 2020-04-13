@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HomeworkCode9.Terms">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Terms of Use" FontSize="Title" Margin="50"
+                   HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
+            <Label Margin="10" Text="Effective Date: April 10, 2020"/>
+            <Label Margin="10" Text="By using this app, you agree to our terms and conditions. Use this app only for the purposes for which it was designed. Thank you." />
+            <Button Text="Dismiss" Clicked="OnDismissButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
