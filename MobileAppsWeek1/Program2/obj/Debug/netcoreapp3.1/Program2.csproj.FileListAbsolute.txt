@@ -1,0 +1,11 @@
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\bin\Debug\netcoreapp3.1\Program2.exe
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\bin\Debug\netcoreapp3.1\Program2.deps.json
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.json
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.dev.json
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\bin\Debug\netcoreapp3.1\Program2.dll
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\bin\Debug\netcoreapp3.1\Program2.pdb
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\obj\Debug\netcoreapp3.1\Program2.csprojAssemblyReference.cache
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfoInputs.cache
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfo.cs
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\obj\Debug\netcoreapp3.1\Program2.dll
+C:\Users\Mary\OneDrive - Waukesha County Technical College\Mobile Application Development 152-142\01\Program2\obj\Debug\netcoreapp3.1\Program2.pdb
