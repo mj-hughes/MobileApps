@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Code6"
+             x:Class="Code6.ColorBox"
+             Title="ColorBox">
+    <!-- Shared resource -->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="startingColor">Aqua</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.BindingContext>
+        <local:HslViewModel Color="{StaticResource startingColor}" />
+    </ContentPage.BindingContext>
+    <!-- A layout other than StackLayout -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+     <BoxView Color="{Binding Color}"
+                 VerticalOptions="FillAndExpand"
+              Grid.Row="0"/>
+
+        <!-- Simple Static Markup Extension -->
+        <Label Text="{Binding Hue, StringFormat='Hue = {0:F2}'}"
+               HorizontalOptions="Center"
+               Grid.Row="1"
+               TextColor="{x:Static Color.Green}"/>
+
+        <Slider Value="{Binding Hue, Mode=TwoWay}"
+                Margin="20,0,20,0"
+                Grid.Row="2"/>
+
+        <!-- More complex Static Markup Extension -->
+        <Label Text="{Binding Saturation, StringFormat='Saturation = {0:F2}'}"
+               Font="{x:Static local:MyAppConstants.DifferentFont}"
+               HorizontalOptions="Center"
+               Grid.Row="3"/>
+
+        <Slider Value="{Binding Saturation, Mode=TwoWay}" 
+                Margin="20,0,20,0"
+                Grid.Row="4"/>
+
+        <!-- More complex Static Markup Extension -->
+        <Label Text="{Binding Luminosity, StringFormat='Luminosity = {0:F2}'}"
+               BackgroundColor="{x:Static local:MyAppConstants.bgRed}"
+               HorizontalOptions="Center"
+               Grid.Row="5"/>
+
+        <Slider Value="{Binding Luminosity, Mode=TwoWay}" 
+                Margin="20,0,20,0"
+                Grid.Row="6"/>
+    </Grid>
+</ContentPage>

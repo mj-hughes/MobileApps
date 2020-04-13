@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Code6"
+             xmlns:sys="clr-namespace:System;assembly=netstandard"
+             x:Class="Code6.StaticResources"
+             Title="Static Markup Extensions"
+             Padding="{x:Static local:AppConstants.PagePadding}">
+    <StackLayout>
+        <Label Text="Static Markup Extensions"
+               TextColor="{x:Static local:AppConstants.BackgroundColor}"
+               BackgroundColor="{x:Static local:AppConstants.ForegroundColor}"
+               Font="{x:Static local:AppConstants.TitleFont}"
+               HorizontalOptions="StartAndExpand"
+               VerticalOptions="Start"/>
+        <BoxView WidthRequest="{x:Static sys:Math.PI}"
+                 HeightRequest="{x:Static sys:Math.E}"
+                 HorizontalOptions="Center"
+                 VerticalOptions="CenterAndExpand"
+                 BackgroundColor="{x:Static local:AppConstants.BackgroundColor}"
+                 Scale="100"
+                 CornerRadius="5"
+                 />
+        <Label Text="Static Label and BoxView."
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+</ContentPage>

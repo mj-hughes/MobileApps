@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Code6.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Mobile Dev Homework Code 6!"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="Start" />
+        <Button Clicked="OnClickedColorBox"
+                Text="Color Box in a Grid"
+                CornerRadius="5"
+                BorderColor="Black"
+                BackgroundColor="Azure"></Button>
+        <Button Clicked="OnClickedStaticResources"
+                Text="Static Markup Extension in a Stack Layout"
+                CornerRadius="5"
+                BorderColor="Black"
+                BackgroundColor="Azure"></Button>
+        <Button Clicked="OnClickedScrollView"
+                Text="Scroll View"
+                CornerRadius="5"
+                BorderColor="Black"
+                BackgroundColor="Azure"></Button>
+    </StackLayout>
+</ContentPage>

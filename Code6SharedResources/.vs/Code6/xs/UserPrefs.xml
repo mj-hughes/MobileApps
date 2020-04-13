@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D536AACA-31A5-4503-80D0-DA46B88018C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code6/StaticMarkup.xaml">
+    <Files>
+      <File FileName="Code6/MainPage.xaml" Line="18" Column="30" />
+      <File FileName="Code6/MainPage.xaml.cs" Line="27" Column="54" />
+      <File FileName="Code6/StaticMarkup.xaml.cs" Line="10" Column="16" />
+      <File FileName="Code6/StaticMarkup.xaml" Line="13" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code6" expanded="True">
+            <Node name="Code6" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="StaticMarkup.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Code6.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.023F4191-E05E-4471-B3D9-D8CA339F0F88" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Code6.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

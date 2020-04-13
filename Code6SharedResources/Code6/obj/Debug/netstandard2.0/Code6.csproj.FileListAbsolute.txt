@@ -1,0 +1,16 @@
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/bin/Debug/netstandard2.0/Code6.deps.json
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/bin/Debug/netstandard2.0/Code6.dll
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/bin/Debug/netstandard2.0/ref/Code6.dll
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/bin/Debug/netstandard2.0/Code6.pdb
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/Code6.csprojAssemblyReference.cache
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/Code6.AssemblyInfoInputs.cache
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/Code6.AssemblyInfo.cs
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/Code6.dll
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/ref/Code6.dll
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/Code6.pdb
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/ColorBox.xaml.g.cs
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/ScrollView.xaml.g.cs
+/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/06/Code6/Code6/obj/Debug/netstandard2.0/StaticMarkup.xaml.g.cs
