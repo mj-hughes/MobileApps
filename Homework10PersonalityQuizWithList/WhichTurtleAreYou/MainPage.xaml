@@ -17,8 +17,8 @@
               ApplyToDerivedTypes="True"
               CanCascade="True">
            <Setter Property="FontSize" Value="Medium"/>
-           <Setter Property="BackgroundColor" Value="PaleTurquoise"/>
-           <Setter Property="TextColor" Value="AliceBlue"/>
+           <Setter Property="BackgroundColor" Value="DarkTurquoise"/>
+           <Setter Property="TextColor" Value="Ivory"/>
            <Setter Property="CornerRadius" Value="10"/>
        </Style>
    </ContentPage.Resources>

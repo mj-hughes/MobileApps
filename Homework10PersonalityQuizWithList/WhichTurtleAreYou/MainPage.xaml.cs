@@ -42,9 +42,7 @@ namespace WhichTurtleAreYou
                 Banner.IsVisible = true;
                 Question.Text = "You're "+Result_Turtle+"!";
             }
-        }
-
-        
+        }  
 
         void OnNoButtonClicked(System.Object sender, System.EventArgs e)
         {
