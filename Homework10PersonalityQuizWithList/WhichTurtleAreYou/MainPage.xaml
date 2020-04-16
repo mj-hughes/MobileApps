@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:WhichTurtleAreYou;assembly=WhichTurtleAreYou"
+             mc:Ignorable="d"
+             x:Class="WhichTurtleAreYou.MainPage"
+             Title="Turtle Power!">
+   
+   <ContentPage.Resources>
+       <Thickness x:Key="PageMargin">20</Thickness>
+       <Color x:Key="AppBackgroundColor">SeaGreen</Color>
+       <Color x:Key="NavigationBarColor">Green</Color>
+       <Color x:Key="NavigationBarTextColor">Ivory</Color>
+       <Style TargetType="Button"
+              ApplyToDerivedTypes="True"
+              CanCascade="True">
+           <Setter Property="FontSize" Value="Medium"/>
+           <Setter Property="BackgroundColor" Value="PaleTurquoise"/>
+           <Setter Property="TextColor" Value="AliceBlue"/>
+           <Setter Property="CornerRadius" Value="10"/>
+       </Style>
+   </ContentPage.Resources>
+    <StackLayout Orientation="Vertical">
+        <Label x:Name="Question" Font="Large" Text="Question"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="CenterAndExpand"
+               Margin="20,20,20,20"/>
+        <Image x:Name="Banner"
+               Margin="5,5,5,5"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               IsVisible="False"/>
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="FillAndExpand"
+                     VerticalOptions="Center">
+            <Button x:Name="Yes_Button" Text="Yes" Clicked="OnYesButtonClicked"
+                    WidthRequest="190" HeightRequest="75" Margin="5,10,10,20"/>
+            <Button x:Name="No_Button" Text="No" Clicked="OnNoButtonClicked"
+                    WidthRequest="190" HeightRequest="75" Margin="5,10,10,20"/>
+
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>
