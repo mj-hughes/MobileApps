@@ -31,5 +31,13 @@ namespace WhichTurtleAreYou
 
             All = all;
         }
+
+        public static void ResetPoints()
+        {
+            foreach (Turtles t in Turtles.All)
+            {
+                t.Points = 0;
+            }
+        }
     }
 }

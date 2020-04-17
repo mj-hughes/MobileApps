@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EA028AD9-AA45-477E-9F86-82208ED90483}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhichTurtleAreYou/MainPage.xaml">
+    <Files>
+      <File FileName="WhichTurtleAreYou/MainPage.xaml" Line="63" Column="33" />
+      <File FileName="WhichTurtleAreYou/MainPage.xaml.cs" Line="59" Column="15" />
+      <File FileName="WhichTurtleAreYou/Models/QuizQuestion.cs" />
+      <File FileName="WhichTurtleAreYou/Models/Turtles.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhichTurtleAreYou" expanded="True">
+            <Node name="WhichTurtleAreYou" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WhichTurtleAreYou.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3BF2C518-5305-4D3C-A123-710EF3CDD70C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

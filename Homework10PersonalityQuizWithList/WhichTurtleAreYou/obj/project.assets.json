@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
+      "projectUniqueName": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
       "projectName": "WhichTurtleAreYou",
-      "projectPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
+      "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
       "packagesPath": "/Users/MaryHughes/.nuget/packages/",
-      "outputPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/obj/",
+      "outputPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

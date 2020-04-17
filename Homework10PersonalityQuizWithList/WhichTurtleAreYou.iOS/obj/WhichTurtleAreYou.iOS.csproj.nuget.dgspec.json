@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj": {}
+    "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj": {}
   },
   "projects": {
-    "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj": {
+    "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj",
+        "projectUniqueName": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj",
         "projectName": "WhichTurtleAreYou.iOS",
-        "projectPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj",
+        "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj",
         "packagesPath": "/Users/MaryHughes/.nuget/packages/",
-        "outputPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou.iOS/obj/",
+        "outputPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {
-                "projectPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj"
+              "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {
+                "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {
+    "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
+        "projectUniqueName": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
         "projectName": "WhichTurtleAreYou",
-        "projectPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
+        "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
         "packagesPath": "/Users/MaryHughes/.nuget/packages/",
-        "outputPath": "/Users/MaryHughes/Downloads/PersonalityQuizList/WhichTurtleAreYou/obj/",
+        "outputPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/Homework10PersonalityQuizWithList/WhichTurtleAreYou/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
