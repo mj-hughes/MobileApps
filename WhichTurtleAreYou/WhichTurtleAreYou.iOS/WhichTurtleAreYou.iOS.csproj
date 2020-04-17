@@ -137,5 +137,9 @@
     <BundleResource Include="Resources\turtle.png" />
     <BundleResource Include="Resources\noturtle.png" />
     <BundleResource Include="Resources\yesturtle.png" />
+    <BundleResource Include="Resources\donatello.png" />
+    <BundleResource Include="Resources\leonardo.png" />
+    <BundleResource Include="Resources\michelangelo.png" />
+    <BundleResource Include="Resources\raphael.png" />
   </ItemGroup>
 </Project>

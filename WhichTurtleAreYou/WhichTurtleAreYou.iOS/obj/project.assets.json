@@ -1016,39 +1016,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mary\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/MaryHughes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou.iOS\\WhichTurtleAreYou.iOS.csproj",
+      "projectUniqueName": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj",
       "projectName": "WhichTurtleAreYou.iOS",
-      "projectPath": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou.iOS\\WhichTurtleAreYou.iOS.csproj",
-      "packagesPath": "C:\\Users\\Mary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou.iOS\\obj\\",
+      "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou.iOS/WhichTurtleAreYou.iOS.csproj",
+      "packagesPath": "/Users/MaryHughes/.nuget/packages/",
+      "outputPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mary\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/MaryHughes/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\WhichTurtleAreYou.csproj": {
-              "projectPath": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\WhichTurtleAreYou.csproj"
+            "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {
+              "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/WhichTurtleAreYou.csproj"
             }
           }
         }

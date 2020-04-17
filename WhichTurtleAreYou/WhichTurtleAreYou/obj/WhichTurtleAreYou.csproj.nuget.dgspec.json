@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\WhichTurtleAreYou.csproj": {}
+    "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\WhichTurtleAreYou.csproj": {
+    "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/WhichTurtleAreYou.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\WhichTurtleAreYou.csproj",
+        "projectUniqueName": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
         "projectName": "WhichTurtleAreYou",
-        "projectPath": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\WhichTurtleAreYou.csproj",
-        "packagesPath": "C:\\Users\\Mary\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mary\\OneDrive - Waukesha County Technical College\\Mobile Application Development 152-142\\07\\WhichTurtleAreYou\\WhichTurtleAreYou\\obj\\",
+        "projectPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/WhichTurtleAreYou.csproj",
+        "packagesPath": "/Users/MaryHughes/.nuget/packages/",
+        "outputPath": "/Users/MaryHughes/WCTC/OneDrive - Waukesha County Technical College/Mobile Application Development 152-142/MobileAppProjects/WhichTurtleAreYou/WhichTurtleAreYou/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mary\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/MaryHughes/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +64,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
