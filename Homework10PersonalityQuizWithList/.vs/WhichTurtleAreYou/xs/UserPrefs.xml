@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{EA028AD9-AA45-477E-9F86-82208ED90483}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WhichTurtleAreYou/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhichTurtleAreYou/Models/Turtles.cs">
     <Files>
       <File FileName="WhichTurtleAreYou/MainPage.xaml" Line="63" Column="33" />
       <File FileName="WhichTurtleAreYou/MainPage.xaml.cs" Line="59" Column="15" />
-      <File FileName="WhichTurtleAreYou/Models/QuizQuestion.cs" />
-      <File FileName="WhichTurtleAreYou/Models/Turtles.cs" />
+      <File FileName="WhichTurtleAreYou/Models/QuizQuestion.cs" Line="1" Column="1" />
+      <File FileName="WhichTurtleAreYou/Models/Turtles.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WhichTurtleAreYou" expanded="True">
             <Node name="WhichTurtleAreYou" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Turtles.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
