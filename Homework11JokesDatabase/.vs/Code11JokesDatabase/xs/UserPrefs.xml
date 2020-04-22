@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{565E1571-43F2-4865-90F3-72C72C187198}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code11JokesDatabase/Views/JokeListPage.xaml">
+    <Files>
+      <File FileName="Code11JokesDatabase/Views/JokeListPage.xaml" Line="7" Column="1" IsPinned="True" />
+      <File FileName="Code11JokesDatabase/Views/JokePage.xaml" />
+      <File FileName="Code11JokesDatabase/Views/JokePage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Code11JokesDatabase" expanded="True">
+            <Node name="Code11JokesDatabase" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="JokeListPage.xaml" expanded="True" selected="True" />
+                <Node name="JokePage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Code11JokesDatabase.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.Code11JokesDatabase.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3BF2C518-5305-4D3C-A123-710EF3CDD70C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
