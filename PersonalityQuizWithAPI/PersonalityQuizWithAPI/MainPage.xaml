@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="PersonalityQuizWithAPI.MainPage"
+             Padding="0,20,0,0"
+             Title="Which Marvel Hero Are You?">
+     <ContentPage.Resources>
+       <Thickness x:Key="PageMargin">20</Thickness>
+       <Color x:Key="AppBackgroundColor">SeaGreen</Color>
+       <Color x:Key="NavigationBarColor">Green</Color>
+       <Color x:Key="NavigationBarTextColor">Ivory</Color>
+       <Style TargetType="Button"
+              ApplyToDerivedTypes="True"
+              CanCascade="True">
+           <Setter Property="FontSize" Value="Medium"/>
+           <Setter Property="BackgroundColor" Value="DarkTurquoise"/>
+           <Setter Property="TextColor" Value="Ivory"/>
+           <Setter Property="CornerRadius" Value="10"/>
+       </Style>
+   </ContentPage.Resources>
+
+    <StackLayout Orientation="Vertical">
+        <Label Text="Which Hero Are You?" FontSize="Title"
+               HorizontalOptions="Center" Margin="0,50,0,0" />
+        <Label Text="Take this quiz to find out."
+               Margin="20,0,50,0"/>
+        <ListView x:Name="listView"
+                  ItemTapped="OnItemTapped"
+                  ItemsSource="{Binding .}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="FillAndExpand"
+                         VerticalOptions="Center">
+                            <Label x:Name="qNum" IsVisible="false" Text="{Binding QuestionNum}" />
+                            <Label Text="{Binding Response}" />
+                            <Button x:Name="Yes_Button" Text="Yes" Clicked="OnCellClicked"
+                                CommandParameter="{Binding .}"/>
+                            <Button x:Name="No_Button" Text="No" Clicked="OnCellClicked"
+                                    CommandParameter="{Binding .}"/>
+
+                            <Label Text="{Binding Question}"/>
+                        </StackLayout>
+
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Image x:Name="Banner"
+               Margin="5,5,5,50"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               IsVisible="False"/>
+        <Label x:Name="HeroName" Font="Large" HorizontalOptions="Center"/>
+        <Label x:Name="Description"
+               Margin="10,5,5,5"/>
+        <Button Text="Score Quiz" Clicked="OnScoreQuizClicked"
+                WidthRequest="150" HorizontalOptions="Center"/>
+        <Label Text="Data provided by Marvel. © 2014 Marvel"
+               HorizontalOptions="Center"
+               Margin="0,0,0,50"/>
+    </StackLayout>
+</ContentPage>

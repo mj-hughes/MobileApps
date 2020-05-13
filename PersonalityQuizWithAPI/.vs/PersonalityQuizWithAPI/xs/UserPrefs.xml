@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6AB68B4C-5F2E-468D-92A6-F371080E0E54}|Default">
+  <MonoDevelop.Ide.ItemProperties.PersonalityQuizWithAPI.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.PersonalityQuizWithAPI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonalityQuizWithAPI/MainPage.xaml.cs">
+    <Files>
+      <File FileName="PersonalityQuizWithAPI/MainPage.xaml.cs" Line="53" Column="59" />
+      <File FileName="PersonalityQuizWithAPI/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PersonalityQuizWithAPI" expanded="True">
+            <Node name="PersonalityQuizWithAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="PersonalityQuizWithAPI.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
