@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FillInFables.StoryPage"
+             Title="Fill-in Fable::Your Story">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label x:Name="PageName" Text="Title" HorizontalOptions="CenterAndExpand"
+                       FontSize="Title" Margin="10,50,0,0"/>
+                <Label Text="Story for" FontSize="Subtitle" HorizontalOptions="CenterAndExpand" />
+                <Label Text="{Binding Name}" FontSize="Subtitle" HorizontalOptions="CenterAndExpand" />
+                <Label x:Name="PageStory" Text="Story" Margin="10,0,0,0"/>
+                <Button Text="Hear your fill-in fable!" Margin="10,10,10,10" Clicked="OnHearItClicked" />
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

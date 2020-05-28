@@ -1,0 +1,14 @@
+﻿In general, you are to create an App of your choice that meets the following requirements:
+
+Fun or useful 10%
+At least 3 Activities/Pages 10%
+A list 10%
+A menu for navigation 10%  
+A local Database or Use an API (Marvel, Google Maps, etc...) 30%
+Include something that was not covered in class (Push Notifications, Web Browser, Accelerometer, etc...) 30%
+Extra Credit:
+
+Accessibility
+Localization
+Globalization
+The project is to be presented on the last day of class.  The presentation is a demo followed by pointing out compliance with the requirements.

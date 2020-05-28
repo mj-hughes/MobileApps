@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FillInFables.Views.GamePage"
+             Title="Fill-In Fables::Game Page">
+    <StackLayout>    
+        <ListView x:Name="listView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Margin="10">
+                            <Label Text="{Binding Blank}" />
+                            <Entry Text="{Binding Answer, Mode=TwoWay}"
+                                   WidthRequest="200"
+                                   Keyboard="Plain"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate> 
+        </ListView>
+        <Button Text="Get my fill-in fable!" Clicked="OnDoneClicked" />
+    </StackLayout>  
+</ContentPage>

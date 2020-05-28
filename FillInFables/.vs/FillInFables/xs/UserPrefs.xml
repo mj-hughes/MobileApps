@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3FE2DAE3-D286-496E-BBCD-7DC008332E18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FillInFables/Constants.cs">
+    <Files>
+      <File FileName="FillInFables/Data/RestService.cs" Line="1" Column="1" />
+      <File FileName="FillInFables/Data/PlayerDatabase.cs" Line="1" Column="1" />
+      <File FileName="FillInFables/Constants.cs" Line="26" Column="106" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FillInFables" expanded="True">
+            <Node name="FillInFables" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Constants.cs" selected="True" />
+            </Node>
+            <Node name="FillInFables.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>picker.SelectedItem</Value>
+          <Value>picker.SelectedIndexChanged</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FillInFables.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3BF2C518-5305-4D3C-A123-710EF3CDD70C" />
+  <MonoDevelop.Ide.ItemProperties.FillInFables.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
